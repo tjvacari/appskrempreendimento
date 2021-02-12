@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SKR Empreendimento</string>
+    <string name="configuracao">Configuração</string>
+    <string name="filtros">Filtros</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aplicar">Aplicar</string>
+    <string name="categoria">categoria</string>
+    <string name="voltar">Voltar</string>
+    <string name="erro">Erro</string>
+</resources>
